@@ -1,0 +1,5 @@
+{
+  "name": "MTsN 1 Ciamis Exam Generator",
+  "description": "An application to generate complete exam packages (blueprints, questions, and answer keys) for all middle school (MTs - Fase D) subjects according to the Indonesian Kurikulum Merdeka, powered by Gemini.",
+  "requestFramePermissions": []
+}
